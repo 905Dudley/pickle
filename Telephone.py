@@ -16,7 +16,8 @@ pickle.dump(leader,pod_file)
 
 # 4. Member Numbers
 member= {}
-member['Prince Fields'] = '(510) 472-0804'
+member['Josiah Johnaon'] = '(510) 860-5112'
+member['Richard Kamau'] = '(510) 228-5623'
 member['Mattew Dudley'] = '(510) 816-2411'
 member['Kymari Rhodes'] = '(510) 575-1982'
 
